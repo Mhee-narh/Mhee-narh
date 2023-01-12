@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muminat Adefabi
-- 👀 I’m interested in Web Developnment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and Python Frameworks
 - 💞️ I’m looking to collaborate on web developnment and Python Project
 - 📫 How to reach me adefabimuminat@gmail.com
