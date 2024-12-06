@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Muminat Adefabi
 - 👨‍💻 Full-Stack Developer | Python, Flask, Java, Spring Boot, React
--🔧 Passionate about building scalable and performant web applications
--🌱 Constantly learning and exploring new technologies to enhance my skillset
--💞️ I’m looking to collaborate on web developnment and Python Project
--💡 Focused on clean, maintainable code and user-centric solutions
+- 🔧 Passionate about building scalable and performant web applications
+- 🌱 Constantly learning and exploring new technologies to enhance my skillset
+- 💞️ I’m looking to collaborate on web developnment and Python Project
+- 💡 Focused on clean, maintainable code and user-centric solutions
 - 📫 How to reach me adefabimuminat@gmail.com
 
 <!---
