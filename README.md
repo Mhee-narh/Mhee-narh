@@ -2,7 +2,7 @@
 - 👨‍💻 Full-Stack Developer | Java, Spring Boot, React, Python, Flask
 - 🔧 Passionate about building scalable and performant web applications
 - 🌱 Constantly learning and exploring new technologies to enhance my skillset
-- 💞️ I’m looking to collaborate on web developnment and Python Project
+- 💞️ I’m looking to collaborate on web developnment
 - 💡 Focused on clean, maintainable code and user-centric solutions
 - 📫 How to reach me adefabimuminat@gmail.com
 
