@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Muminat Adefabi
 - 👨‍💻 Full-Stack Developer | Java, Spring Boot, React, Python, Flask
+- 👨‍💻 Currently Building Api for an Airline Reservation System
 - 🔧 Passionate about building scalable and performant web applications
 - 🌱 Constantly learning and exploring new technologies to enhance my skillset
 - 💞️ I’m looking to collaborate on web developnment
