@@ -1,4 +1,4 @@
-# 👋 Hiya there, I'm Muminat Adefabi
+# 👋 Hiya there,
 
 ```java
 while(alive){
@@ -23,7 +23,7 @@ while(alive){
 
 🚀 Currently building **LedgerX** — a secure e-commerce platform with an integrated e-wallet for seamless shopping and digital payments.
 
-☕ Working mainly with **Java, Spring Boot, and React**... at least until I find a new favourite.
+☕ Currently obsessed with Java, Spring Boot, and React... until the next shiny technology catches my attention.
 
 🌱 Currently learning new technologies and improving my backend architecture skills.
 
