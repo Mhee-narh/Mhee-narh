@@ -1,13 +1,40 @@
-- 👋 Hi, I’m Muminat Adefabi
-- 👨‍💻 Full-Stack Developer | Java, Spring Boot, React, Python, Flask
-- 👨‍💻 Currently Building Api for an Airline Reservation System
-- 🔧 Passionate about building scalable and performant web applications
-- 🌱 Constantly learning and exploring new technologies to enhance my skillset
-- 💞️ I’m looking to collaborate on web developnment
-- 💡 Focused on clean, maintainable code and user-centric solutions
-- 📫 How to reach me adefabimuminat@gmail.com
+# 👋 Hiya there, I'm Muminat Adefabi
 
-<!---
-Mhee-narh2328/Mhee-narh2328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```java
+while(alive){
+    learn();
+    build();
+
+    if(bugFound){
+        hiss();
+        complain();
+        fix();
+    }
+
+    play();
+    makeNoise();
+    stressEat();
+
+    repeat();
+}
+```
+
+💻 Software Engineer passionate about building things that are useful, scalable, and sometimes surprisingly fun.
+
+🚀 Currently building **LedgerX** — a secure e-commerce platform with an integrated e-wallet for seamless shopping and digital payments.
+
+☕ Working mainly with **Java, Spring Boot, and React**... at least until I find a new favourite.
+
+🌱 Currently learning new technologies and improving my backend architecture skills.
+
+🔧 I enjoy turning ideas into clean, maintainable code.
+
+🤝 Open to collaborating on interesting software engineering projects.
+
+⚡ Fun fact: If there's a bug, I *will* find it. If I can't find it... it's probably in the configuration 😅
+
+## Tech Stack
+
+`Java` • `Spring Boot` • `React` • `Python` • `Flask` • `PostgreSQL` • `JWT` • `Git` • `REST APIs`
+
+📫 Reach me at: **adefabimuminat@gmail.com**
